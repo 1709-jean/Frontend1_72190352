@@ -94,6 +94,59 @@
         }
       },
       {
+        "HashCode": 201000419,
+        "Kind": "Components.Component",
+        "Name": "UTS.Pages.DetailEmployee",
+        "AssemblyName": "UTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTS.Pages.DetailEmployee"
+        }
+      },
+      {
+        "HashCode": -1994098459,
+        "Kind": "Components.Component",
+        "Name": "UTS.Pages.DetailEmployee",
+        "AssemblyName": "UTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTS.Pages.DetailEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTS.Pages.DetailEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 2080686347,
         "Kind": "Components.Component",
         "Name": "UTS.Pages.EmployeePage",
