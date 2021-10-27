@@ -1,0 +1,29 @@
+@page "/employeepage"
+
+<h3>Daftar Employee</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Employee Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+         <!--   <th>Email</th>
+            <th>Gender</th>
+            <th></th>-->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Employees)
+        {
+            <tr>
+                <td>@emp.employeeID</td>
+                <td>@emp.firstName</td>
+                <td>@emp.lastName</td>
+                <!--<td>@emp.email</td>
+                <td>@emp.Gender</td>-->
+                <td><a href="@($"detailemployee/{emp.employeeID}")" class="btn btn-primary">Detail Employee</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
