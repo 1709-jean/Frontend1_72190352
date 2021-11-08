@@ -11,7 +11,7 @@ namespace UTS.Pages
     public partial class DetailDepartment
     {
         [Parameter]
-        public string id { get; set; }
+        public string id { get; set;}
 
         [Inject]
         public IDepartmentService DepartmentService { get; set; }

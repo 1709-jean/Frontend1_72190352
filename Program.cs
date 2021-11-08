@@ -22,6 +22,7 @@ namespace UTS
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = uri });
             builder.Services.AddScoped<IDepartmentService,DepartmentService>();
             builder.Services.AddScoped<IEmployeeService,EmployeeService>();
+            builder.Services.AddScoped<IEmployeeDServices,EmployeeDService>();
 
             await builder.Build().RunAsync();
         }

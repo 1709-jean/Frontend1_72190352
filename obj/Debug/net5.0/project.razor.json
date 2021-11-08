@@ -13181,6 +13181,11 @@
   "RootNamespace": "UTS",
   "Documents": [
     {
+      "FilePath": "c:\\Frontend\\UTS\\Pages\\EmployeeDPage.razor",
+      "TargetPath": "Pages\\EmployeeDPage.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Frontend\\UTS\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"

@@ -638,3 +638,5 @@ C:\Frontend\UTS\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
 C:\Frontend\UTS\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
 C:\Frontend\UTS\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployee.razor.g.cs
 C:\Frontend\UTS\obj\Debug\net5.0\Razor\Pages\DetailEmployee.razor.g.cs
+C:\Frontend\UTS\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeeDPage.razor.g.cs
+C:\Frontend\UTS\obj\Debug\net5.0\Razor\Pages\EmployeeDPage.razor.g.cs

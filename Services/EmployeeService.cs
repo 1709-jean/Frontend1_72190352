@@ -28,5 +28,6 @@ namespace UTS.Services
             var result = await _httpClient.GetFromJsonAsync<Employee>($"api/Employees/{id}");
             return result;
         }
+        
     }
 }
